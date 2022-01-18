@@ -1,6 +1,9 @@
 # ResNet_on_CIFAR10
 
 checkpoint文件夹内保存了最终训练的模型
+
 results文件夹里存放了训练过程的log和loss与accuracy的曲线图片
+
 实验报告在同名的文件夹内
+
 运行main.py即可加载训练好的模型，将checkpoint文件夹删除即可重新训练
